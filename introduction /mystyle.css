@@ -3,7 +3,7 @@ body {
     /* Lighter, professional off-white background */
     background-color: #f0f8ff; /* Azure/lightest blue */
     /* Use a simple, readable sans-serif font */
-    font-family: "Eurostile", Orbitron;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     /* Dark gray text for better contrast than pure black */
     color: #444; 
     /* Add some general padding to prevent content touching screen edges */
@@ -51,4 +51,5 @@ img {
 /* Optional: Style for section titles (assuming you use h3 for them) */
 h3 {
     color: #000080; /* A dark blue/indigo for section titles */
+    font-family: 'Montserrat', 'Arial Black', sans-serif;
 }
