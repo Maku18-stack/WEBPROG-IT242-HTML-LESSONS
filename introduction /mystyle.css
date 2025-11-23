@@ -1,55 +1,8 @@
-/* 1. Body and Global Text Styles */
 body {
-    /* Lighter, professional off-white background */
-    background-color: #f0f8ff; /* Azure/lightest blue */
-    /* Use a simple, readable sans-serif font */
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    /* Dark gray text for better contrast than pure black */
-    color: #444; 
-    /* Add some general padding to prevent content touching screen edges */
-    padding: 20px;
-    margin: 0;
+    background-color: lightblue;
 }
-
-/* 2. Main Heading (h1) */
+ 
 h1 {
-    /* Your original navy color is good */
     color: navy;
-    /* Center the title */
-    text-align: center;
-    /* Add good spacing below the title */
-    margin-bottom: 25px;
-    /* Make it bold and clear */
-    font-weight: 600;
-    font-size: 1.8em;
-    /* Remove original margin-left: 20px for simplicity */
-    margin-left: 0; 
-}
-
-/* 3. General Paragraph and List Text */
-p {
-    /* Slightly increased line height for easier reading */
-    line-height: 1.5; 
-    /* Clear vertical space between items */
-    margin-bottom: 12px;
-}
-
-/* 4. Image Styling */
-img {
-    /* Ensure the image fits the screen */
-    max-width: 100%; 
-    height: auto;
-    /* Center the image */
-    display: block;
-    margin: 20px 0 20px 0; /* Margin only above and below */
-    /* Simple, subtle border */
-    border: 1px solid #ccc;
-    /* Optional: Slight rounding for a modern touch */
-    border-radius: 5px; 
-}
-
-/* Optional: Style for section titles (assuming you use h3 for them) */
-h3 {
-    color: #000080; /* A dark blue/indigo for section titles */
-    font-family: 'Montserrat', Arial, sans-serif;
+    margine-left: 20px;
 }
