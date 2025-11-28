@@ -2,6 +2,9 @@ body {
     background-color: lightblue;
     opacity: 0.3
 }
+p {
+  color: white
+}
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
